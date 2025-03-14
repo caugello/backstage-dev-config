@@ -5,5 +5,6 @@ metadata:
 spec:
   profile:
     displayName: Christophe Augello
+    email: caugello@example.com
   memberOf:
     - janus-authors
